@@ -1,1 +1,2 @@
-## this is for git commands
+# This is for git  
+### this is for git commands
