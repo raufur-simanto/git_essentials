@@ -1,0 +1,16 @@
+## git commands
+
+git init -> for git initialize
+repository -> for repository
+
+git status -> showing current changes. For example showing untraced changes 
+
+git add -> track changes
+git commit -m "msg" -> save changes
+
+
+git push origin "branch" -> push changes to remote repo 
+
+git pull -> pull remote repository
+
+git branch -> show the branches 
