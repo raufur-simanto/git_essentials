@@ -14,3 +14,4 @@ git push origin "branch" -> push changes to remote repo
 git pull -> pull remote repository
 
 git branch -> show the branches 
+create conflict
